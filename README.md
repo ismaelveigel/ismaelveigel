@@ -22,5 +22,5 @@
    ![Snake animation](https://github.com/ismaelveigel/ismaelveigel/blob/output/github-contribution-grid-snake.svg)
  
  ##
-it's that all, strangern hehehe ?
+it's that all, strange? Hehehe
 </div>
