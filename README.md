@@ -1,8 +1,7 @@
-### Olá
+<h1 style="align: center;">Olá</h1>
  <div>
   <a href="https://github.com/ismaelveigel">
-  <img height="180em" src="https://github-readme-stats-lac-iota.vercel.app/api/top-langs/?username=ismaelveigel&&layout=compact&langs_count=7&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-lac-iota.vercel.app/api/top-langs/?username=ismaelveigel&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="250em" width="1800em" src="https://github-readme-stats-lac-iota.vercel.app/api/top-langs/?username=ismaelveigel&layout=compact&langs_count=7&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
 </div>
   
  <div style="display: inline_block"><br>
